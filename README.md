@@ -10,7 +10,7 @@ Current CRAN release is 0.6.3. To install the most updated version (0.6.6) from 
 
 ```r
 library(devtools)
-install_github("pablobarbera/Rfacebook/Rfacebook")
+install_github("engti/Rfacebook/Rfacebook")
 ```
 
 Click <a href="https://cran.r-project.org/web/packages/Rfacebook/Rfacebook.pdf">here</a> to read the documentation.
