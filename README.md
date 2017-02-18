@@ -1,3 +1,6 @@
+**Note: This version is modified from Pablo Barbera's creation, I've removed certain fields I didn't need.**
+
+
 Rfacebook: Access to Facebook API via R
 ---------
 
@@ -19,7 +22,7 @@ Rfacebook can be installed directly from CRAN, but the most updated version <a h
 ```r
 install.packages("Rfacebook") # from CRAN
 library(devtools)
-install_github("pablobarbera/Rfacebook/Rfacebook") # from GitHub
+install_github("engti/Rfacebook/Rfacebook") # from GitHub
 
 ```
 
